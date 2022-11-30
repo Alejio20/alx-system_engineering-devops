@@ -3,3 +3,4 @@ Directory for Shell Basics Files:
 1-listit: Script display the contents list of current directory
 2-bing_me_home: Script changes the working directory to the user's home directory
 3-listfiles: Script displays current directory contents in a long format
+4-listmorefiles: Script display current directory contents, including hidden files
