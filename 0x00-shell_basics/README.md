@@ -15,3 +15,4 @@ Directory for Shell Basics Files:
 13-symbolic_link: Script creates a symbolic lin to /bin/ls named __ls__
 14-copy_html: Script copies all HTML files from current working directory to parent of the working directory
 15-lets_move: Script moves all files beginning with an uppercase letter in /tmp/u directory
+101-clean_emacs: Script deletes all files in the current working directory that ends with the character ~
