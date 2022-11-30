@@ -16,3 +16,4 @@ Directory for Shell Basics Files:
 14-copy_html: Script copies all HTML files from current working directory to parent of the working directory
 15-lets_move: Script moves all files beginning with an uppercase letter in /tmp/u directory
 101-clean_emacs: Script deletes all files in the current working directory that ends with the character ~
+102-tree: Script create the directories welcome/, welcome/to, welcome/to/school in the current directory
