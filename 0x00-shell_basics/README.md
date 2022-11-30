@@ -7,3 +7,4 @@ Directory for Shell Basics Files:
 5-listfilesdigitonly: Script displays current directory contents in long format, hidden files and with user and group IDs
 6-firstdirectory: Script creates a directory named my_first_directory in the /tmp/ directory
 7-movethatfile: Script moves the file betty from /tmp/ to /tmp/my_first_directory
+8-firstdelete: Script delete the file betty
