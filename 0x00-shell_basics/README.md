@@ -13,3 +13,4 @@ Directory for Shell Basics Files:
 11-lists: Script lists all files including hidden files in the order of current directory, parent of working directory and /boot directory
 12-file_type: Script prints the type of file named iamafile in /tmp directory
 13-symbolic_link: Script creates a symbolic lin to /bin/ls named __ls__
+14-copy_html: Script copies all HTML files from current working directory to parent of the working directory
