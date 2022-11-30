@@ -12,3 +12,4 @@ Directory for Shell Basics Files:
 10-back: Script changes the working directory to the previous one
 11-lists: Script lists all files including hidden files in the order of current directory, parent of working directory and /boot directory
 12-file_type: Script prints the type of file named iamafile in /tmp directory
+13-symbolic_link: Script creates a symbolic lin to /bin/ls named __ls__
