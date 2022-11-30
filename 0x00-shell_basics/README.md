@@ -5,3 +5,4 @@ Directory for Shell Basics Files:
 3-listfiles: Script displays current directory contents in a long format
 4-listmorefiles: Script display current directory contents, including hidden files
 5-listfilesdigitonly: Script displays current directory contents in long format, hidden files and with user and group IDs
+6-firstdirectory: Script creates a directory named my_first_directory in the /tmp/ directory
