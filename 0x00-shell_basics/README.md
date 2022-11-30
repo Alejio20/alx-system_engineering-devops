@@ -9,3 +9,4 @@ Directory for Shell Basics Files:
 7-movethatfile: Script moves the file betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete: Script delete the file betty
 9-firstdirdeletion: Script delete the directory my_first_directory in /tmp directory
+10-back: Script changes the working directory to the previous one
