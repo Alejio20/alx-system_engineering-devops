@@ -7,3 +7,4 @@ Scripts for Shell permissions
 5-execute: Adds execute permission to the owner of the file hello
 6-multiple_permissions: Adds execute permission to owner and group users, and read permission to other users to the file hello
 7-everybody: Adds execution permission to owner, group and other users to the file hello
+8-James_Bond: Sets the permission to the file hello as follows: no permissionat all for owner and group and all permissions for other users
