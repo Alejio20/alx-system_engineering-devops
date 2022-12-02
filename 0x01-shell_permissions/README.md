@@ -16,3 +16,4 @@ Scripts for Shell permissions
 100-change_owner_and_group: Changes the owner to vincent and group to staff for all the files and directories in the working directory
 101-symbolic_link_permissions: Changes the owner and group owner of a symbolic link _hello to vincent and and staff respectively._
 102-if_only: Changes the owner of the file hello to betty only if it is owned by the user guillaume
+103-Star_Wars: Script that will play the StarWars IV episode in the terminal
