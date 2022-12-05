@@ -6,3 +6,5 @@ Shell, I/O Redirections and Filters
 4-lastfiles: Displays the last 10 lines of /etc/passwd
 5-firstlines: Display the first 10 lines of /etc/passwd
 6-third_line: Displays the third line of the file iacta in the working directory
+7-file: Creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the test Best School ending by a new line
+8-cwd_state: Writes into file ls_cwd_state the result of the comamand ls -la
