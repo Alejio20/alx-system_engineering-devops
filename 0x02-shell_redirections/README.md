@@ -10,3 +10,4 @@ Shell, I/O Redirections and Filters
 8-cwd_state: Writes into file ls_cwd_state the result of the comamand ls -la
 9-duplicate_last_line: Duplicates the last line of the file iacta in the working directory
 10-no_more_js: Deletes all the regular files(no the directories) with a .js extension that are present in the current directory and all its subfolders
+11-directories: Counts the number of directories an sub-directories in the current directory(Current and and parent directories should not be considered and hidden directories should be counted)
