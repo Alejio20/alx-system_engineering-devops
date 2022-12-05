@@ -4,3 +4,4 @@ Shell, I/O Redirections and Filters
 2-hellofile: Displys the content of the /etc/passwd file
 3-twofiles: Displays the content of /etc/passwd and /etc/hosts
 4-lastfiles: Displays the last 10 lines of /etc/passwd
+5-firstlines: Display the first 10 lines of /etc/passwd
