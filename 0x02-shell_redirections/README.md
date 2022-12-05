@@ -14,3 +14,4 @@ Shell, I/O Redirections and Filters
 12-newest_files: Displays the 10 newest files in the current directory(One file per line and sorted from the newest to the oldest)
 13-unique:Takes a list of words as input and prints only words that appera exactly once and words should be sorted
 14-findthatword: Display lines containing the pattern"root" from the file /etc/passwd
+15-countthatword: Display the number of lines that contain the pattern "bin" in the file /etc/passwd
