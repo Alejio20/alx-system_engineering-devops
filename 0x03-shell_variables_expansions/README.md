@@ -6,4 +6,5 @@ Scripts on Shell variables and Expansions
 4-global_variables: Lists environment variables
 5-local_variables: Lists all local variables and environment variables and functions
 6-create_local_variable: Creates a new local variable name: BEST with value: School
-7-create_global_variable: Greate a new global variable name: BEST with value: School
+7-create_global_variable: Create a new global variable name: BEST with value: School
+8-true_knowledge: Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE followed by a new line
