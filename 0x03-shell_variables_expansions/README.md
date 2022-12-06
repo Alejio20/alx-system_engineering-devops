@@ -4,3 +4,4 @@ Scripts on Shell variables and Expansions
 2-path: Add /action to the PATH
 3-paths: Counts the number of directories in the PATH
 4-global_variables: Lists environment variables
+5-local_variables: Lists all local variables and environment variables and functions
