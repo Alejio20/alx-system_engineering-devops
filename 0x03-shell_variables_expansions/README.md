@@ -12,3 +12,4 @@ Scripts on Shell variables and Expansions
 10-love_exponent_breath: Displays the result of BREATH to power LOVE
 11-binart_to_decimal: Coverts environment variable BINARY from base 2 to base 10
 12-combinations: Prints all possible combinations of two letters except oo
+13-print_float: Prints an environment variable with two decimal places followed by a new line
