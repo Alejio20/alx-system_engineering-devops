@@ -11,3 +11,4 @@ Scripts on Shell variables and Expansions
 9-divide_and_rule: Prints the result of POWER divided by DIVIDE followed by a new line
 10-love_exponent_breath: Displays the result of BREATH to power LOVE
 11-binart_to_decimal: Coverts environment variable BINARY from base 2 to base 10
+12-combinations: Prints all possible combinations of two letters except oo
