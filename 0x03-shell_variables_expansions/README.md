@@ -8,3 +8,4 @@ Scripts on Shell variables and Expansions
 6-create_local_variable: Creates a new local variable name: BEST with value: School
 7-create_global_variable: Create a new global variable name: BEST with value: School
 8-true_knowledge: Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE followed by a new line
+9-divide_and_rule: Prints the result of POWER divided by DIVIDE followed by a new line
