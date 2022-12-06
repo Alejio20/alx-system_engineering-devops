@@ -14,3 +14,4 @@ Scripts on Shell variables and Expansions
 12-combinations: Prints all possible combinations of two letters except oo
 13-print_float: Prints an environment variable with two decimal places followed by a new line
 100-decimal_to_hexadecimal: Coverts an environment variable from base 10 to base 16
+101-rot13: Encodes and decodes text using the rot13 encryption. Assume ASCII
