@@ -5,7 +5,7 @@
 # displays Buzz when the number is multiple of 5
 # otherwise, displays the number
 
-for ((; i<=100; i++))
+for ((i=1; i<=100; i++))
 do
 	if ((i % 3 == 0 && i % 5 == 0))
 	then
