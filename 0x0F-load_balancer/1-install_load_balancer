@@ -17,7 +17,7 @@ frontend  alejio-frontend
 backend alejio-backend
         balance roundrobin
         server 217226-web-01 18.204.8.164:80 check
-        server 217226-web-02 3.85.175.132:80 check
+        server 217226-web-02 54.87.213.235:80 check
 "
 echo "$server_config" | sudo tee -a /etc/haproxy/haproxy.cfg
 
