@@ -6,17 +6,19 @@
 Issue Summary
 
 On 1st August 2023 (10am GMT + 1), we experienced a server outage (downtime) on all of our server infrastructure which lasted for 37 minutes. As a result of this, our clients experienced a http 500 error which had a 100% impact on their business as they were unable to access our services. The root cause was not properly testing out all implemented upgrades before pushing to production servers.
-Timeline (all time in GMT + 1)
 
-Time (GMT + 1) 	Actions
-9:45 AM 	Upgrades implementation begins
-10:00AM 	Server Outage begins
-10:00AM 	Pagers alerted on-call team
-10:10AM 	On-call team acknowledgement
-10:15AM 	Rollback initiation begins
-10:20AM 	Successful rollback
-10:20AM 	Server restart initiated
-10:22AM 	100% of traffic back online
+##Timeline (all time in GMT + 1)
+
+| Time (GMT + 1)| Actions                        |
+|---------------|--------------------------------|
+| 9:45 AM       | Upgrades implementation begins |
+| 10:00AM       | Server Outage begins	         |
+| 10:00AM       | Pagers alerted on-call team    |
+| 10:10AM       | On-call team acknowledgement   |
+| 10:15AM       | Rollback inititation begins    |
+| 10:20AM       | Successful rollback            |
+| 10:20AM       | Server restart initiated       |
+| 10:22AM       | 100% of traffic back online    |
 
 ## Root cause
 
@@ -24,5 +26,5 @@ At 9:45am (GMT + 1) server upgrade was initiated across all our production serve
 
 ## Preventive measures
 
-    Pushing all intended changes 1st to our test environments before shipping to life server.
-    Increase the performance metrics threshold to alert on-call engineers on the event of possible server crash
+Pushing all intended changes 1st to our test environments before shipping to life server.
+Increase the performance metrics threshold to alert on-call engineers on the event of possible server crash
