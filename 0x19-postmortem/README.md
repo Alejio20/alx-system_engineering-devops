@@ -7,7 +7,7 @@ Issue Summary
 
 On 1st August 2023 (10am GMT + 1), we experienced a server outage (downtime) on all of our server infrastructure which lasted for 37 minutes. As a result of this, our clients experienced a http 500 error which had a 100% impact on their business as they were unable to access our services. The root cause was not properly testing out all implemented upgrades before pushing to production servers.
 
-##Timeline (all time in GMT + 1)
+## Timeline (all time in GMT + 1)
 
 | Time (GMT + 1)| Actions                        |
 |---------------|--------------------------------|
