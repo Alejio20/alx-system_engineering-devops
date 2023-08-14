@@ -26,5 +26,5 @@ At 9:45am (GMT + 1) server upgrade was initiated across all our production serve
 
 ## Preventive measures
 
-Pushing all intended changes 1st to our test environments before shipping to life server.
-Increase the performance metrics threshold to alert on-call engineers on the event of possible server crash
++ Pushing all intended changes 1st to our test environments before shipping to life server.
++ Increase the performance metrics threshold to alert on-call engineers on the event of possible server crash
